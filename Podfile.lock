@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManager (6.1.1)
+  - SideMenu (4.0.0)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - SideMenu (~> 4.0.0)
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - SideMenu
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 79c57795f5c2408d259d37b9da2ed07efcbb5225
+  SideMenu: 70ee5657df63ec3382660ec4ef470bf1cf5db07d
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: b329346557701e60ffa201cf6a0e3c81b9d2f440
+
+COCOAPODS: 1.5.3
